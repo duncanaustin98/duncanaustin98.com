@@ -18,7 +18,7 @@ url                      : https://duncanaustin98.github.io/duncanaustin.com # T
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "duncanaustin98/duncanaustin98.com"
 
-search: true  # true, false (default)
+# search: true  # true, false (default)
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
