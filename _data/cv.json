@@ -66,32 +66,193 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Possible photometric signatures of nebular-dominated emission in 1.5 < z < 8.5 JADES galaxies",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2026-05-14",
+      "website": "https://doi.org/10.1093/mnras/stag788",
+      "summary": "Developed a new photometric method to search for high-redshift galaxies whose light is dominated by nebular continuum emission, a possible signature of a top-heavy initial mass function in the early Universe."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Reionization in protocluster environments at z > 7 with JWST/NIRSpec",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2026-03-03",
+      "website": "https://doi.org/10.1093/mnras/stag311",
+      "summary": "Identified two galaxy protoclusters at z > 7 in the JADES Deep Survey and showed their member galaxies produce ionizing photons more efficiently than typical field galaxies, suggesting protoclusters may have driven local reionization."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Galaxy mergers in the epoch of reionization – II. Merger-triggered star formation and AGN activities at z = 4.5−8.5",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2026-02-03",
+      "website": "https://doi.org/10.1093/mnras/stag008",
+      "summary": "Used a sample of over 3,000 galaxies across eight JWST fields to show that galaxy mergers boost both star formation and active galactic nucleus activity in the early Universe at z = 4.5-8.5."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "EPOCHS. III. Unbiased UV Continuum Slopes at 6.5 < z < 13 from Combined PEARLS GTO and Public JWST/NIRCam Imaging",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2025-12-10",
+      "website": "https://doi.org/10.3847/1538-4357/ae07db",
+      "summary": "Measured UV continuum slopes for over 1,000 galaxies at 6.5 < z < 13 from the EPOCHS survey, correcting for a photometric bias that can make faint high-redshift galaxies appear artificially blue."
+    },
+    {
+      "name": "Cosmic stillness: high quiescent galaxy fractions across upper mass scales in the early Universe to z = 7 with JWST",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2025-11-24",
+      "website": "https://doi.org/10.1093/mnras/staf1916",
+      "summary": "Identified 90 candidate quiescent (quenched) galaxies at 3 < z < 7 using JWST data, finding surprisingly high fractions of massive galaxies had already shut down star formation in the early Universe."
+    },
+    {
+      "name": "New methods of identifying AGN in the early Universe using spectroscopy and photometry in the JWST era",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2025-11-20",
+      "website": "https://doi.org/10.1093/mnras/staf1836",
+      "summary": "Explored new spectroscopic and photometric methods for identifying active galactic nuclei in the early Universe, showing that standard optical diagnostics break down in JWST's low-metallicity, high-redshift regime."
+    },
+    {
+      "name": "JWSTs PEARLS: NIRCam imaging and NIRISS spectroscopy of a z = 3.6 star-forming galaxy lensed into a near-Einstein ring by a z = 1.258 massive elliptical galaxy",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2025-10-16",
+      "website": "https://doi.org/10.1093/mnras/staf1518",
+      "summary": "Reported the discovery of a rare near-Einstein ring gravitational lens in JWST-PEARLS data, in which a z = 1.258 elliptical galaxy lenses a background z = 3.6 star-forming galaxy into four images."
+    },
+    {
+      "name": "Behind the spotlight: a systematic assessment of outshining using NIRCam medium bands in the JADES Origins Field",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2025-09-09",
+      "website": "https://doi.org/10.1093/mnras/staf1396",
+      "summary": "Used deep medium-band JWST imaging of the JADES Origins Field to systematically test how much bright young stars can ‘outshine’ and bias stellar mass estimates for more than 200 high-redshift galaxies."
+    },
+    {
+      "name": "The impact of medium-width bands on the selection and subsequent luminosity function measurements of high-z galaxies",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2025-08-29",
+      "website": "https://doi.org/10.1093/mnras/staf1153",
+      "summary": "Showed that adding medium-width JWST/NIRCam photometric bands substantially improves the reliability of high-redshift galaxy selection and the resulting luminosity function measurements."
+    },
+    {
+      "name": "Lonely Little Red Dots: Challenges to the Active Galactic Nucleus Nature of Little Red Dots through Their Clustering and Spectral Energy Distributions",
+      "publisher": "The Astrophysical Journal Letters",
+      "releaseDate": "2025-08-20",
+      "website": "https://doi.org/10.3847/2041-8213/adf73d",
+      "summary": "Studied the clustering and spectral properties of 124 ‘little red dots’ seen with JWST and found they cluster like normal star-forming galaxies rather than luminous quasars, challenging the idea that they are predominantly powered by active galactic nuclei."
+    },
+    {
+      "name": "Galaxy mergers in the epoch of reionization – I. A JWST study of pair fractions, merger rates, and stellar mass accretion rates at z = 4.5–11.5",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2025-05-15",
+      "website": "https://doi.org/10.1093/mnras/staf638",
+      "summary": "Measured galaxy merger pair fractions and rates across eight JWST fields at z = 4.5-11.5, extending merger statistics to the earliest cosmic epochs yet studied."
+    },
+    {
+      "name": "EPOCHS. XI. The Structure and Morphology of Galaxies in the Epoch of Reionization to z ∼ 12.5",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2025-04-20",
+      "website": "https://doi.org/10.3847/1538-4357/adb968",
+      "summary": "Measured the sizes and structural (Sérsic) properties of 520 galaxies at 6.5 < z < 12.5 from the EPOCHS survey, tracing how galaxy morphology evolves during the epoch of reionization."
+    },
+    {
+      "name": "EPOCHS. I. The Discovery and Star-forming Properties of Galaxies in the Epoch of Reionization at 6.5 < z < 18 with PEARLS and Public JWST Data",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2025-04-10",
+      "website": "https://doi.org/10.3847/1538-4357/ada608",
+      "summary": "Presented the discovery, properties, and public catalog of 1,165 galaxies at 6.5 < z < 18 identified in deep JWST NIRCam imaging combining the PEARLS survey with public JWST fields."
+    },
+    {
+      "name": "Like a candle in the wind: the embers of once aflame, now smouldering galaxies at 5 < z < 8",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2025-02-17",
+      "website": "https://doi.org/10.1093/mnras/staf213",
+      "summary": "Introduced a photometric method to find faint, temporarily quiescent ‘smouldering’ dwarf galaxies at 5 < z < 8 in deep JADES imaging, galaxies whose star formation has recently and briefly switched off."
+    },
+    {
+      "name": "EPOCHS. IV. SED Modeling Assumptions and Their Impact on the Stellar Mass Function at 6.5 ≤ z ≤ 13.5 Using PEARLS and Public JWST Observations",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2025-01-01",
+      "website": "https://doi.org/10.3847/1538-4357/ad8c29",
+      "summary": "Used a sample of 1,120 galaxy candidates at 6.5 < z < 13.5 to place some of the first direct constraints on the galaxy stellar mass function beyond z = 10, and examined how different SED-fitting assumptions change the result."
+    },
+    {
+      "name": "EPOCHS Paper V. The dependence of galaxy formation on galaxy structure at z < 7 from JWST observations",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2024-07-01",
+      "website": "https://doi.org/10.1093/mnras/stae1180",
+      "summary": "Examined how a galaxy's structure and morphology relate to its star formation history at z < 7, using a morphologically classified catalog of nearly 4,000 JWST/CEERS galaxies."
+    },
+    {
+      "name": "EPOCHS Paper – VIII. An insight into MIRI-selected galaxies in SMACS-0723 and the benefits of deep MIRI photometry in revealing AGN and the dusty universe",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2024-05-13",
+      "website": "https://doi.org/10.1093/mnras/stae964",
+      "summary": "Analyzed 181 galaxies selected with JWST's Mid-Infrared Instrument in the SMACS-0723 field, showing that deep MIRI photometry helps reveal dust emission and AGN activity missed by near-infrared data alone."
+    },
+    {
+      "name": "EPOCHS. II. The Ultraviolet Luminosity Function from 7.5 < z < 13.5 Using 180 arcmin2 of Deep, Blank Fields from the PEARLS Survey and Public JWST Data",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2024-04-01",
+      "website": "https://doi.org/10.3847/1538-4357/ad2a7b",
+      "summary": "Measured the ultraviolet luminosity function and cosmic star formation rate density of galaxies at 7.5 < z < 13.5 using a large combined dataset from the PEARLS survey and public JWST fields."
+    },
+    {
+      "name": "Adding value to JWST spectra and photometry: stellar population and star formation properties of spectroscopically confirmed JADES and CEERS galaxies at z > 7",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2024-03-23",
+      "website": "https://doi.org/10.1093/mnras/stae872",
+      "summary": "Combined JWST spectroscopy and photometry for 43 confirmed galaxies at z > 7 to test how well photometrically derived stellar population and star-formation properties match spectroscopic measurements."
+    },
+    {
+      "name": "A Robust Study of High-redshift Galaxies: Unsupervised Machine Learning for Characterizing Morphology with JWST up to z ∼ 8",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2024-02-01",
+      "website": "https://doi.org/10.3847/1538-4357/ad17b8",
+      "summary": "Applied unsupervised machine learning to characterize the morphologies of high-redshift JWST galaxies out to z ~ 8, offering a data-driven alternative to traditional visual classification schemes."
+    },
+    {
+      "name": "Galaxy Quenching at the High Redshift Frontier: A Fundamental Test of Cosmological Models in the Early Universe with JWST-CEERS",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2024-02-01",
+      "website": "https://doi.org/10.3847/1538-4357/ad0a98",
+      "summary": "Used advanced statistical methods, including random forest classification, on JWST-CEERS data to test what drives the quenching of massive galaxies within the first few billion years of cosmic history."
+    },
+    {
+      "name": "EPOCHS IX. When cosmic dawn breaks: evidence for evolved stellar populations in 7 < z < 12 galaxies from PEARLS GTO and public NIRCam imaging",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2023-12-23",
+      "website": "https://doi.org/10.1093/mnras/stad3877",
+      "summary": "Searched PEARLS and public JWST/NIRCam imaging for galaxies at 7 < z < 12 showing a Balmer break, a signature of an already-evolved stellar population surprisingly early in cosmic history."
+    },
+    {
+      "name": "On the observability and identification of Population III galaxies with JWST",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2023-09-11",
+      "website": "https://doi.org/10.1093/mnras/stad2553",
+      "summary": "Used theoretical models of Population III stars to predict how JWST imaging and spectroscopy could identify these hypothesized first-generation, metal-free galaxies."
+    },
+    {
+      "name": "A Large Population of Faint 8 < z < 16 Galaxies Found in the First JWST NIRCam Observations of the NGDEEP Survey",
+      "publisher": "The Astrophysical Journal Letters",
+      "releaseDate": "2023-07-01",
+      "website": "https://doi.org/10.3847/2041-8213/ace18d",
+      "summary": "Presented the discovery of 16 new galaxy candidates at z > 8.5, including one of the most distant galaxies then known at z ~ 15.6, in the first deep JWST NIRCam imaging of the NGDEEP survey."
+    },
+    {
+      "name": "Seeing sharper and deeper: JWST’s first glimpse of the photometric and spectroscopic properties of galaxies in the epoch of reionization",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2023-06-08",
+      "website": "https://doi.org/10.1093/mnras/stad1629",
+      "summary": "Analyzed the photometric and spectroscopic properties of four spectroscopically confirmed galaxies in the epoch of reionization, showing that F115W imaging is key to distinguishing genuine high-redshift galaxies from lower-redshift contaminants."
+    },
+    {
+      "name": "Discovery and properties of ultra-high redshift galaxies (9 < z < 12) in the JWST ERO SMACS 0723 Field",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2022-12-08",
+      "website": "https://doi.org/10.1093/mnras/stac3347",
+      "summary": "Searched the JWST Early Release Observations of the SMACS 0723 field and discovered four candidate galaxies at z > 9, among the first ultra-high-redshift galaxies found with JWST."
+    },
+    {
+      "name": "Panic! at the Disks: First Rest-frame Optical Observations of Galaxy Structure at z > 3 with JWST in the SMACS 0723 Field",
+      "publisher": "The Astrophysical Journal Letters",
+      "releaseDate": "2022-10-01",
+      "website": "https://doi.org/10.3847/2041-8213/ac947c",
+      "summary": "Presented the first rest-frame optical morphological study of galaxies at z > 3 using JWST's Early Release Observations of the SMACS 0723 field."
     }
   ],
   "presentations": [

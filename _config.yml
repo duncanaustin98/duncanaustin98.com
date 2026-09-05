@@ -13,10 +13,10 @@ title                    : "Duncan Austin / PDRA High-z Galaxies with JWST"
 title_separator          : "-"
 name                     : &name "Duncan Austin"
 description              : &description "Personal academic website for Duncan Austin"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://duncanaustin98.github.io/duncanaustin98.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://duncanaustin98.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io" #"duncanaustin98/duncanaustin98.com"
+repository               : "duncanaustin98/duncanaustin98.com"
 
 # search: true  # true, false (default)
 
@@ -37,12 +37,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=OVw09KgAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0519-9445"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "duncanaustin98"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
