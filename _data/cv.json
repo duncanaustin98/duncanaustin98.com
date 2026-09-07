@@ -1,70 +1,94 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Duncan Austin",
+    "email": "duncan.austin@manchester.ac.uk",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://duncanaustin98.com",
+    "summary": "Postdoctoral Research Associate studying the first stars and galaxies with JWST, working with Professor Christopher Conselice at the Jodrell Bank Centre for Astrophysics, University of Manchester.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Manchester",
+      "countryCode": "GB",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=OVw09KgAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0003-0519-9445"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "duncanaustin98",
+        "url": "https://github.com/duncanaustin98"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "PDRA (ERC funding provided by Chris Conselice)",
+      "company": "University of Manchester",
+      "startDate": "2025",
+      "endDate": "",
+      "summary": "Research interests: Reionization, UV luminosity functions, SED fitting, cataloguing and data reduction techniques for JWST/NIRCam, galaxy clustering and cosmic variance modelling.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Manchester",
+      "area": "PhD Astrophysics (STFC funded)",
+      "studyType": "PhD",
+      "startDate": "2021",
+      "endDate": "2025",
       "gpa": null,
-      "courses": []
+      "courses": ["Thesis: Inferring the properties of star forming galaxies in the Epoch of Reionization with JWST"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "University of Manchester",
+      "area": "MPhys (Hons), 1st class",
+      "studyType": "MPhys",
+      "startDate": "2017",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "C++"]
+    },
+    {
+      "name": "Software",
+      "keywords": ["SAOImage DS9", "TOPCAT", "SExtractor", "Photutils", "EAZY-py", "Bagpipes", "GALFIT", "pysersic", "msaexp"]
+    },
+    {
+      "name": "Mathematical & Statistical Techniques",
+      "keywords": ["Bootstrapping", "2-pt clustering statistics", "Bayesian inference", "Monte-Carlo Markov Chain sampling"]
+    },
+    {
+      "name": "DevOps & Version Control",
+      "keywords": ["Continuous Integration (GitHub Actions)", "Sphinx", "ReadTheDocs", "pytest", "ruff", "pre-commit"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
+    {
+      "name": "Resolving the ionizing photon budget crisis with JWST/NIRCam HII clumping constraints at z=6",
+      "publisher": "The Astrophysical Journal (accepted)",
+      "releaseDate": "2025-12-11",
+      "website": "https://arxiv.org/abs/2512.10839",
+      "summary": "A study of the ionizing properties of 1,721 galaxies at 5.6 < z < 6.5 using deep JWST/NIRCam imaging, finding HII clumping constraints that help resolve the tension between the ionizing photon budget and the observed reionization history."
+    },
     {
       "name": "Possible photometric signatures of nebular-dominated emission in 1.5 < z < 8.5 JADES galaxies",
       "publisher": "Monthly Notices of the Royal Astronomical Society",
@@ -257,57 +281,69 @@
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Implications for IGM clumping and reionization from Hα emitters at z ≃ 6",
+      "event": "The many scales of galaxy environments",
+      "date": "2026-07-01",
+      "location": "Ascona, Switzerland",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "EPOCHS-DR2: UVLFs, SFR density and cosmic variance estimates at 6.5 < z < 13.5 with JWST/NIRCam",
+      "event": "Manchester–Liverpool–Lancaster Extragalactic Meeting",
+      "date": "2026-05-01",
+      "location": "Manchester, United Kingdom",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "Resolving the ionizing photon budget crisis with HII clumping constraints at z ≃ 6",
+      "event": "Miracles of the Early Universe",
+      "date": "2025-06-01",
+      "location": "Geneva, Switzerland",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Unbiased UV continuum slopes at z = 6.5-13 from combined PEARLS GTO and public JWST NIRCam imaging",
+      "event": "Cosmic Dawn at High Latitudes",
+      "date": "2024-06-01",
+      "location": "Stockholm, Sweden",
+      "description": ""
+    },
+    {
+      "name": "Unbiased UV continuum slopes at 6.5 < z < 13 from the EPOCHS sample",
+      "event": "Semaine de L'astrophysique Francaise (SF2A)",
+      "date": "2024-06-15",
+      "location": "Marseille, France",
+      "description": ""
+    },
+    {
+      "name": "UV continuum slopes and their redshift evolution with PEARLS GTO and public JWST NIRCam imaging",
+      "event": "The First Year of JWST Science",
+      "date": "2023-09-01",
+      "location": "Space Telescope Science Institute (STScI), Baltimore, USA",
+      "description": ""
+    },
+    {
+      "name": "UV continuum slopes and SFRs from combined PEARLS GTO and public JWST NIRCam imaging",
+      "event": "National Astronomy Meeting",
+      "date": "2023-07-01",
+      "location": "Cardiff, United Kingdom",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Masters student supervision",
+      "institution": "University of Manchester",
+      "date": "2023-09-01",
+      "role": "Supervisory aid",
+      "description": "Supervisory aid to several MScR and MPhys students, contributing to project planning via regular meetings."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "course": "1st year undergraduate laboratory teaching",
+      "institution": "University of Manchester",
+      "date": "2021-09-01",
+      "role": "Lab demonstrator",
+      "description": "Teaching of measurement and data analysis techniques and propagation of uncorrelated uncertainties; marking of lab reports and discussion-based interviews."
     }
   ]
 }

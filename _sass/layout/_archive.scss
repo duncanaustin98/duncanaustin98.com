@@ -74,6 +74,29 @@
   }
 }
 
+/* image shown beside (not above) the item in list view, e.g. publications */
+.archive__item--has-teaser {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5em;
+  align-items: flex-start;
+
+  .archive__item-teaser--inline {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 220px;
+
+    @include breakpoint($small) {
+      width: 180px;
+    }
+  }
+
+  .archive__item-body {
+    flex: 1 1 300px;
+    min-width: 0;
+  }
+}
+
 .archive__item:hover {
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
