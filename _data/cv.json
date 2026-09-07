@@ -97,6 +97,13 @@
       "summary": "Developed a new photometric method to search for high-redshift galaxies whose light is dominated by nebular continuum emission, a possible signature of a top-heavy initial mass function in the early Universe."
     },
     {
+      "name": "Probing the Origin of the Kilonova Candidate GRB 230307A: Analysis of Host Galaxy and Offset",
+      "publisher": "The Astrophysical Journal Letters",
+      "releaseDate": "2026-04-01",
+      "website": "https://doi.org/10.3847/2041-8213/ae4fbe",
+      "summary": "Analyzed the host galaxy and offset of GRB 230307A, a candidate kilonova-producing gamma-ray burst, to help constrain its progenitor origin."
+    },
+    {
       "name": "Reionization in protocluster environments at z > 7 with JWST/NIRSpec",
       "publisher": "Monthly Notices of the Royal Astronomical Society",
       "releaseDate": "2026-03-03",
@@ -104,11 +111,32 @@
       "summary": "Identified two galaxy protoclusters at z > 7 in the JADES Deep Survey and showed their member galaxies produce ionizing photons more efficiently than typical field galaxies, suggesting protoclusters may have driven local reionization."
     },
     {
+      "name": "Flexible simulation-based inference for galaxy photometric fitting with synthesizer",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2026-03-01",
+      "website": "https://doi.org/10.1093/mnras/stag282",
+      "summary": "Introduced a flexible simulation-based inference framework built on the synthesizer code for photometric fitting of galaxy properties."
+    },
+    {
       "name": "Galaxy mergers in the epoch of reionization – II. Merger-triggered star formation and AGN activities at z = 4.5−8.5",
       "publisher": "Monthly Notices of the Royal Astronomical Society",
       "releaseDate": "2026-02-03",
       "website": "https://doi.org/10.1093/mnras/stag008",
       "summary": "Used a sample of over 3,000 galaxies across eight JWST fields to show that galaxy mergers boost both star formation and active galactic nucleus activity in the early Universe at z = 4.5-8.5."
+    },
+    {
+      "name": "Little red dots as young supermassive black holes in dense ionized cocoons",
+      "publisher": "Nature",
+      "releaseDate": "2026-01-01",
+      "website": "https://doi.org/10.1038/s41586-025-09900-4",
+      "summary": "Showed that the compact \"little red dots\" seen by JWST can be explained by young supermassive black holes surrounded by dense, ionized gas cocoons."
+    },
+    {
+      "name": "A dual AGN at z = 5.4 associated with a Lyman-alpha nebula in the centre of a cosmic filament",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2025-12-01",
+      "website": "https://doi.org/10.1093/mnras/staf1992",
+      "summary": "Reported the discovery of a dual active galactic nucleus at z = 5.4 embedded in a Lyman-alpha nebula at the centre of a cosmic filament."
     },
     {
       "name": "EPOCHS. III. Unbiased UV Continuum Slopes at 6.5 < z < 13 from Combined PEARLS GTO and Public JWST/NIRCam Imaging",
@@ -158,6 +186,20 @@
       "releaseDate": "2025-08-20",
       "website": "https://doi.org/10.3847/2041-8213/adf73d",
       "summary": "Studied the clustering and spectral properties of 124 ‘little red dots’ seen with JWST and found they cluster like normal star-forming galaxies rather than luminous quasars, challenging the idea that they are predominantly powered by active galactic nuclei."
+    },
+    {
+      "name": "Dust extinction measures for z ~ 8 galaxies using machine learning on JWST imaging",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2025-07-01",
+      "website": "https://doi.org/10.1093/mnras/staf836",
+      "summary": "Used machine learning applied to JWST imaging to estimate dust extinction for galaxies at z ~ 8."
+    },
+    {
+      "name": "EPOCHS paper – X. Environmental effects on Galaxy formation and protocluster Galaxy candidates at 4.5 < z < 10 from JWST observations",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2025-05-01",
+      "website": "https://doi.org/10.1093/mnras/staf543",
+      "summary": "Investigated how environment affects galaxy formation and identified protocluster galaxy candidates at 4.5 < z < 10 using JWST observations."
     },
     {
       "name": "Galaxy mergers in the epoch of reionization – I. A JWST study of pair fractions, merger rates, and stellar mass accretion rates at z = 4.5–11.5",
@@ -237,6 +279,13 @@
       "summary": "Used advanced statistical methods, including random forest classification, on JWST-CEERS data to test what drives the quenching of massive galaxies within the first few billion years of cosmic history."
     },
     {
+      "name": "EPOCHS VI: the size and shape evolution of galaxies since z ~ 8 with JWST Observations",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2024-01-01",
+      "website": "https://doi.org/10.1093/mnras/stad3597",
+      "summary": "Measured the size and shape evolution of galaxies from z ~ 8 to the present using JWST imaging."
+    },
+    {
       "name": "EPOCHS IX. When cosmic dawn breaks: evidence for evolved stellar populations in 7 < z < 12 galaxies from PEARLS GTO and public NIRCam imaging",
       "publisher": "Monthly Notices of the Royal Astronomical Society",
       "releaseDate": "2023-12-23",
@@ -251,6 +300,20 @@
       "summary": "Used theoretical models of Population III stars to predict how JWST imaging and spectroscopy could identify these hypothesized first-generation, metal-free galaxies."
     },
     {
+      "name": "EPOCHS VII: discovery of high-redshift (6.5 < z < 12) AGN candidates in JWST ERO and PEARLS data",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2023-10-01",
+      "website": "https://doi.org/10.1093/mnras/stad2396",
+      "summary": "Identified candidate active galactic nuclei at high redshift (6.5 < z < 12) in JWST ERO and PEARLS imaging."
+    },
+    {
+      "name": "The JWST Hubble Sequence: The Rest-frame Optical Evolution of Galaxy Structure at 1.5 < z < 6.5",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2023-10-01",
+      "website": "https://doi.org/10.3847/1538-4357/acec76",
+      "summary": "Traced the rest-frame optical evolution of galaxy structure and morphology from 1.5 < z < 6.5 using JWST imaging."
+    },
+    {
       "name": "A Large Population of Faint 8 < z < 16 Galaxies Found in the First JWST NIRCam Observations of the NGDEEP Survey",
       "publisher": "The Astrophysical Journal Letters",
       "releaseDate": "2023-07-01",
@@ -263,6 +326,13 @@
       "releaseDate": "2023-06-08",
       "website": "https://doi.org/10.1093/mnras/stad1629",
       "summary": "Analyzed the photometric and spectroscopic properties of four spectroscopically confirmed galaxies in the epoch of reionization, showing that F115W imaging is key to distinguishing genuine high-redshift galaxies from lower-redshift contaminants."
+    },
+    {
+      "name": "JWST PEARLS. Prime Extragalactic Areas for Reionization and Lensing Science: Project Overview and First Results",
+      "publisher": "The Astronomical Journal",
+      "releaseDate": "2023-01-01",
+      "website": "https://doi.org/10.3847/1538-3881/aca163",
+      "summary": "Presented an overview of the PEARLS JWST survey, describing its design, imaging strategy, and first scientific results."
     },
     {
       "name": "Discovery and properties of ultra-high redshift galaxies (9 < z < 12) in the JWST ERO SMACS 0723 Field",
